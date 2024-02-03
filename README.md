@@ -19,6 +19,5 @@ turns on the chaser light.
 ## Images
 
 ![dynamic-turn-indicator-and-chaser](https://github.com/Masihtabaei/dynamic-turn-indicator-and-chaser/assets/40685026/7d608be0-c22a-4d8d-acc3-569cf4d1a329)
-![dynamic-turn-indicator-and-chaser-2](https://github.com/Masihtabaei/dynamic-turn-indicator-and-chaser/assets/40685026/620969b2-730a-40c3-88e6-8e5b4aa37a2a)
 
 
