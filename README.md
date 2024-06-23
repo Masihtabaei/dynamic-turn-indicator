@@ -1,4 +1,4 @@
-# Dynamic Turn Indicator and Chaser
+# codyn - A Dynamic Turn Indicator and Chaser
 
 ## Technologies Used
 
@@ -12,7 +12,9 @@
 ## General Information
 
 Here you will find a dynamic turn indicator and chaser that I implemented as part of the course "Microcomputer Technology" at the university.
-The code is heavily documented. The project consists of 8 leds divided in two groups (for the left and right indicator). The mode operation
+The code is heavily documented. I called it **codyn**. "codyn" is a partial blend (Coburg [name of a small city located in Bavaria in Southern Germany] + Dynamic). Feel free to extend/adjust this project so that it meets your goals.
+
+The project consists of 8 leds divided in two groups (for the left and right indicator). The mode operation
 is controlled by 2 buttons. Pressing each button turns on the indicator for the corresponding direction. Pressing both buttons
 turns on the chaser light.
 
